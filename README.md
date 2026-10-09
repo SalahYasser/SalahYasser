@@ -57,8 +57,25 @@ I work at **BDC Business Services**, and I also take on client work as a freelan
   </tr>
 </table>
 
+## 🧩 Open source
+
+<table>
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/SalahYasser/flutter_lock_screen_widget">flutter_lock_screen_widget</a></b><br>
+      <sub>PUBLIC SAMPLE</sub>
+      <br><br>
+      <p>A public sample of the same lock-screen widget pattern I used in Al-Burda, written from scratch.</p>
+      <p><a href="https://github.com/SalahYasser/flutter_lock_screen_widget/actions/workflows/ci.yml"><img src="https://github.com/SalahYasser/flutter_lock_screen_widget/actions/workflows/ci.yml/badge.svg" alt="CI"></a></p>
+      <sub>WidgetKit + App Intents · home_widget · App Group · Cubit · 57 tests</sub>
+      <br><br>
+      <a href="https://github.com/SalahYasser/flutter_lock_screen_widget"><b>View the code →</b></a>
+    </td>
+  </tr>
+</table>
+
 > [!NOTE]
-> Most of my production work lives in private client and company repositories, so it doesn't show up on this profile. The case studies above walk through what I built; the public repos below are personal learning projects.
+> Most of my production work lives in private client and company repositories, so it doesn't show up on this profile. The case studies above walk through what I built, and the open-source sample shows how I write code.
 
 ## 🧭 How I work
 
