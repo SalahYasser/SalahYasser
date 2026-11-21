@@ -11,49 +11,87 @@
 
 ## Hi, I'm Salah 👋
 
-**Flutter Developer in Cairo, Egypt.** I build mobile apps from requirements to release.
+**Flutter Developer in Cairo, Egypt.** I build mobile apps from requirements to release, with a focus on clean architecture, reliable offline flows, and iOS and Android delivery.
 
-I work at **BDC Business Services**, and I also take on client work as a freelancer. I own the whole path: architecture, UI, APIs, iOS signing and App Store & Google Play releases.
+My work spans production apps built with **BDC Business Services**, solo client projects, and my own product, **Train&Sync**. Five projects featured below are live on at least one app store.
 
-## 📱 Apps on the stores
+## 📱 Shipped apps
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td valign="top">
+      <img src="assets/icon-train-sync.webp" width="56" height="56" align="left" alt="Train&amp;Sync app icon">
+      <b>Train&amp;Sync</b><br>
+      <sub>OWN PRODUCT · FLUTTER</sub>
+      <br clear="left"><br>
+      <p>I designed and shipped a bilingual workout planner for routines, strength and cardio logs, session history, and local backup export. Live on iOS; Android is in closed testing.</p>
+      <p><a href="https://apps.apple.com/eg/app/train-sync/id6834534014"><img src="assets/badge-app-store.svg" height="36" alt="Train&amp;Sync on the App Store"></a></p>
+      <a href="https://salahyasser.github.io/projects/train-sync/"><b>Read the case study →</b></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <img src="assets/icon-el-madrasah.png" width="56" height="56" align="left" alt="El Madrasah app icon">
       <b>El Madrasah</b><br>
-      <sub>BUILT AT BDC</sub>
+      <sub>BUILT AT BDC · FLUTTER</sub>
       <br clear="left"><br>
-      <p>School app. I built the parent and driver roles end to end and the offline sync, improved performance, and handled both store releases.</p>
+      <p>A school platform for parents, students, teachers, and drivers. I built parent and driver flows and offline-first sync.</p>
       <p>
-        <a href="https://apps.apple.com/eg/app/id6755660500"><img src="assets/badge-app-store.svg" height="36" alt="Download on the App Store"></a>
-        <a href="https://play.google.com/store/apps/details?id=com.elmadrasah.app"><img src="assets/badge-google-play.svg" height="36" alt="Get it on Google Play"></a>
+        <a href="https://apps.apple.com/eg/app/id6755660500"><img src="assets/badge-app-store.svg" height="36" alt="El Madrasah on the App Store"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.elmadrasah.app"><img src="assets/badge-google-play.svg" height="36" alt="El Madrasah on Google Play"></a>
       </p>
       <a href="https://salahyasser.github.io/projects/el-madrasah/"><b>Read the case study →</b></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <img src="assets/icon-al-burda.png" width="56" height="56" align="left" alt="Al-Burda app icon">
       <b>Al-Burda</b><br>
-      <sub>CLIENT PROJECT</sub>
+      <sub>SOLO CLIENT PROJECT · FLUTTER</sub>
       <br clear="left"><br>
-      <p>Built from scratch as a solo developer from the client's requirements. Arabic (RTL), reminders, iOS Lock-Screen widgets.</p>
+      <p>An offline Arabic reading and listening app I built from the client's requirements, with reminders and an iOS lock-screen widget.</p>
       <p>
-        <a href="https://apps.apple.com/eg/app/id6784274940"><img src="assets/badge-app-store.svg" height="36" alt="Download on the App Store"></a>
-        <a href="https://play.google.com/store/apps/details?id=com.salah.alburda"><img src="assets/badge-google-play.svg" height="36" alt="Get it on Google Play"></a>
+        <a href="https://apps.apple.com/eg/app/id6784274940"><img src="assets/badge-app-store.svg" height="36" alt="Al-Burda on the App Store"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.salah.alburda"><img src="assets/badge-google-play.svg" height="36" alt="Al-Burda on Google Play"></a>
       </p>
       <a href="https://salahyasser.github.io/projects/al-burda/"><b>Read the case study →</b></a>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <img src="assets/icon-flexi.png" width="56" height="56" align="left" alt="FLEXI app icon">
       <b>FLEXI</b><br>
-      <sub>CLIENT PROJECT</sub>
+      <sub>SOLO CLIENT PROJECT · FLUTTER</sub>
       <br clear="left"><br>
-      <p>Built from scratch as a solo developer from the client's requirements. Employee app with attendance, QR check-in, leave requests and shifts.</p>
+      <p>An employee and manager app I built for attendance, QR check-in, shifts, leave requests, and payroll access.</p>
       <p>
-        <a href="https://apps.apple.com/eg/app/id6805243501"><img src="assets/badge-app-store.svg" height="36" alt="Download on the App Store"></a>
+        <a href="https://apps.apple.com/eg/app/id6805243501"><img src="assets/badge-app-store.svg" height="36" alt="FLEXI on the App Store"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.flexi.hr"><img src="assets/badge-google-play.svg" height="36" alt="FLEXI on Google Play"></a>
       </p>
       <a href="https://salahyasser.github.io/projects/flexi/"><b>Read the case study →</b></a>
     </td>
+    <td width="50%" valign="top">
+      <img src="assets/icon-makkah-college.webp" width="56" height="56" align="left" alt="Makkah College app icon">
+      <b>Makkah College</b><br>
+      <sub>BUILT AT BDC · REACT NATIVE</sub>
+      <br clear="left"><br>
+      <p>A university app for students and staff, with role-based academic services and real-time communication. I worked on it as a developer on the BDC team.</p>
+      <p>
+        <a href="https://apps.apple.com/eg/app/makkah-college/id6813632607"><img src="assets/badge-app-store.svg" height="36" alt="Makkah College on the App Store"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.makkacollege.edu"><img src="assets/badge-google-play.svg" height="36" alt="Makkah College on Google Play"></a>
+      </p>
+      <a href="https://salahyasser.github.io/projects/makkah-college/"><b>Read the case study →</b></a>
+    </td>
+  </tr>
+</table>
+
+## 🧪 More work on TestFlight
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>PersonaRise</b><br><sub>BDC TEAM · FLUTTER</sub><p>An AI personal-branding platform for analysing a professional profile and preparing content for LinkedIn and X.</p><sub>On TestFlight</sub></td>
+    <td width="50%" valign="top"><b>RFMS</b><br><sub>TEAM PROJECT · FLUTTER</sub><p>A mobile workspace for rabbit-farm operations, including cages, breeding, health cases, and daily tasks.</p><sub>On TestFlight</sub></td>
   </tr>
 </table>
 
@@ -75,7 +113,7 @@ I work at **BDC Business Services**, and I also take on client work as a freelan
 </table>
 
 > [!NOTE]
-> Most of my production work lives in private client and company repositories, so it doesn't show up on this profile. The case studies above walk through what I built, and the open-source sample shows how I write code.
+> Most production code lives in private client and company repositories. The public case studies explain my contribution, and the open-source widget sample shows a focused piece of my Flutter work.
 
 ## 🧭 How I work
 
@@ -92,7 +130,7 @@ I work at **BDC Business Services**, and I also take on client work as a freelan
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,apple,git,github" alt="Flutter, Dart, Firebase, Android Studio, Apple, Git, GitHub"></a>
 
-**Bloc / Cubit** · **Clean Architecture** · **REST APIs** · **Hive / Drift** · **Stripe & PayPal** · **Google Maps** · **TestFlight**
+**Flutter / Dart** · **React Native / TypeScript** · **Bloc / Cubit** · **Clean Architecture** · **PowerSync** · **REST APIs** · **Hive / Drift** · **WidgetKit** · **TestFlight**
 
 ---
 
@@ -100,3 +138,5 @@ I work at **BDC Business Services**, and I also take on client work as a freelan
   <b>Building a mobile product? Let's talk.</b><br>
   <a href="mailto:salahy.allaithy@gmail.com">salahy.allaithy@gmail.com</a> · <a href="https://www.linkedin.com/in/SalahYasserAllaithy">LinkedIn</a> · <a href="https://salahyasser.github.io/">salahyasser.github.io</a>
 </p>
+
+<!-- Content reviewed 21 Nov 2026 against SalahYasser.github.io/src/data/projects.ts and its live case studies. Public store links verify release availability; Android closed testing and TestFlight statuses were supplied by Salah. The banner retains the existing portfolio visual identity. -->
