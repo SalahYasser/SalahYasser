@@ -1,5 +1,5 @@
 <a href="https://salahyasser.github.io/">
-  <img src="assets/banner.webp" width="100%" alt="Salah Yasser, Flutter Developer in Cairo, Egypt. I build mobile apps from requirements to release.">
+  <img src="assets/banner-2026-11.webp" width="100%" alt="Salah Yasser, Flutter Developer in Cairo, Egypt. I build mobile apps from requirements to release, featuring Al-Burda, El Madrasah, and Train&amp;Sync.">
 </a>
 
 <p align="center">
